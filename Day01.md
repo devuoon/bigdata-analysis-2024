@@ -22,3 +22,35 @@
   - 저장 : 빅데이터 플랫폼(Kafaka ..., 데이터마이닝, NoSQL)
   - 분석, 표현 : 통계, 머신러닝, 딥러닝, 자연어처리, 패턴인식, 이미지 프로세싱(Spark, Power BI, Tableau...)
   - 표현 : Visualization(Power BI, Tableau, ...)
+
+#### 학습교재
+
+직장인을 위한 데이터 분석 실무 파이썬, 위키북스
+
+- 실습자료 : https://github.com/Play-with-data/datasalon
+
+#### 파이썬 리뷰
+
+이전에 파이썬 기초 학습 종료
+
+#### 데이터 분석 기초
+
+- Pandas : 데이터 처리 라이브러리
+- Numpy : 수치해석, 계산용 라이브러리
+- Openpyxl : 엑셀, CSV, JSON 문서 데이터 로드, 저장 라이브러리
+- BeautifulSoup : 웹 데이터를 정제 라이브러리
+- Matplot.lib : 차트 표현 라이브러리
+- Seaborn : 시각화 라이브러리
+- Folium : 지도 시각화 라이브러리
+- TensorFlow : 머신러닝 라이브러리
+- PyTorch : 머신러닝, 딥러닝 라이브러리
+
+추가내용, [Kaggle.com](https://www.kaggle.com/)
+
+##### Pandas 학습
+
+데이터 분석(로딩, 처리..) 라이브러리
+
+1. Pandas 자료구조
+
+- 데이터프레임, 시리즈
