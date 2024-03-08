@@ -54,5 +54,5 @@
 1. Pandas 자료구조
 
 - 데이터프레임, 시리즈
-- [데이터프레임 사용법](https://github.com/devuoon/bigdata-analysis-2024/blob/main/day01_pandas_basic.ipynb)
+- [데이터프레임 사용법](https://github.com/devuoon/bigdata-analysis-2024/blob/main/day01/day01_pandas_basic.ipynb)
 - 데이터 통합
