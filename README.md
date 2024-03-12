@@ -16,7 +16,7 @@
   - 빅데이터 분석 기초(계속)
     - 기본 라이브러리 사용법 학습
 
-## [3일차](https://github.com/devuoon/bigdata-analysis-2024/blob/main/Day03.md)
+## [3일차](https://github.com/devuoon/bigdata-analysis-2024/blob/main/DAY03.md)
 
 - 빅데이터 학습
   - 빅데이터 분석 기초(계속)
