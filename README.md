@@ -2,7 +2,7 @@
 
 자바 개발자 과정 빅데이터 수집 및 분석, 학습 리포지토리
 
-## [1일차](https://github.com/devuoon/Bigdata-analysis-2024/blob/main/DAY01.md)
+## [1일차](https://github.com/devuoon/bigdata-analysis-2024/blob/main/DAY01.md)
 
 - 빅데이터 학습
   - 개요
@@ -10,7 +10,7 @@
   - 파이썬 기본 리뷰
   - 빅데이터 분석
 
-## [2일차](https://github.com/devuoon/Bigdata-analysis-2024/blob/main/DAY02.md)
+## [2일차](https://github.com/devuoon/bigdata-analysis-2024/blob/main/DAY02.md)
 
 - 빅데이터 학습
   - 빅데이터 분석 기초(계속)
