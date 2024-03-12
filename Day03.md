@@ -5,3 +5,11 @@
 #### Selenium 라이브러리 학습
 
 - Selenium + ChromeDriver + BeautifulSoup4 연계가 기본
+
+#### 멜론차트100 데이터 가져오기
+
+완료
+
+#### 데이터 분석 실습
+
+##### COVID19 영향으로 중국이 관광객수 감소여부 분석
