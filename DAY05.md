@@ -8,3 +8,10 @@
 
 - 지도 시각화
   - 카카오 API 사용, https://developers.kakao.com
+
+##### 스타벅스 입지 분석
+
+- 웹크롤링, 데이터 수집, 지도 시각화, 분석
+- 서울 열린데이터 광장 Open API 서비스로 인구통계 데이터 수집
+
+1. 스타벅스 코리아 웹사이트(https://www.starbucks.co.kr)
