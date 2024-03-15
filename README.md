@@ -37,3 +37,9 @@
 - 빅데이터 학습
   - 빅데이터 분석 실습
     - 제주도 핫플레이스 분석
+
+## [6일차](https://github.com/devuoon/bigdata-analysis-2024/blob/main/DAY06.md)
+
+- 빅데이터 학습
+  - 빅데이터 분석 실습
+    - 스타벅스 입지 선정 분석
