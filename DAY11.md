@@ -11,3 +11,7 @@
 ##### [환경에 따른 주택 가격 예측](https://github.com/devuoon/bigdata-analysis-2024/blob/main/day11/)
 
 - 사이킷런 라이브러리 내 보스턴집값 데이터
+
+##### [와인등급 예측]
+
+- 10일차에 statsmodels로 기술통계 방식으로 와인등급 선형회귀 예제를 Scikit-Learn 재실습
