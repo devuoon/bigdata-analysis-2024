@@ -23,8 +23,9 @@
 ##### 타이타닉 생존자 분석
 
 - seaborn 모듈내 샘플데이터 셋
-- 생존자 상관분석 : 두 변수간에 상관관계를 유추
+- 생존자 상관분석 : 두 변수간에 상관관계를 유추, 상관관계 있는 변수들로 더 자세한 분석할 지표
 - 0.0 ~ 1.0 사이 상관계수 값
 - 0.5 ~ 0.9 의 결과가 나오는 변수들 끼리 재분석
+- 결측치 검색, 제거
 
-  ![](https://raw.githubusercontent.com/devuoon/bigdata-analysis-2024/main/images/ba013.png)
+  ![상관분석히트맵](https://raw.githubusercontent.com/devuoon/bigdata-analysis-2024/main/images/ba014.png)
