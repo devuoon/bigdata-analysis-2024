@@ -20,4 +20,25 @@
 
 #### 분류분석
 
-- 로지스틱 회쉬분석 (계속)
+- 로지스틱 회귀분석(계속)
+- 결정트리 분석
+
+##### [결정트리](https://github.com/devuoon/bigdata-analysis-2024/blob/main/day12/)
+
+    ![결정트리Lev11](https://raw.githubusercontent.com/devuoon/bigdata-analysis-2024/main/images/ba020.png)
+
+#### 텍스트 마이닝
+
+- 영화리뷰 데이터로 감성예측
+
+##### [영화리뷰](https://github.com/devuoon/bigdata-analysis-2024/blob/main/day12/)
+
+## 13일차 학습
+
+#### 텍스트 마이닝
+
+##### [감성분석+바차트]()
+
+- 코로나 뉴스로 감성 분석
+
+  ![긍정뉴스바차트](https://raw.githubusercontent.com/devuoon/bigdata-analysis-2024/main/images/ba020.png)
